@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "908914215661",
+    "project_id": "granny-s-lens",
+    "storage_bucket": "granny-s-lens.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908914215661:android:2c01a5164fe1545ceddae4",
+        "android_client_info": {
+          "package_name": "com.example.grannyslens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908914215661-lotfj90djkbpjb6hj59u8mr242i34cnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrtJPzXHODwnM65ixM4DGn8i-y9_CtfJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908914215661-lotfj90djkbpjb6hj59u8mr242i34cnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
